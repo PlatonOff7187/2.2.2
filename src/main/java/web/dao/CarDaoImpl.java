@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 @Repository
-public class CarDaoImpl implements CarDao {
+public class CarDaoImpl implements CarDao  {
     private static final List<Car> carList = new ArrayList<>();
 
     static {

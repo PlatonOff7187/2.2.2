@@ -10,7 +10,7 @@ public class Car {
         this.manufacturer = manufacturer;
     }
 
-    public void setModel(String model) {
+    public void setModel(String model)  {
         this.model = model;
     }
 
